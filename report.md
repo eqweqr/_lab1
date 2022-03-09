@@ -2986,7 +2986,7 @@ lrwxrwxrwx 1 rmn rmn   24 мар  9 19:25 libboost_timer.so -> libboost_timer.so
 lrwxrwxrwx 1 rmn rmn   23 мар  9 19:25 libboost_wave.so -> libboost_wave.so.1.69.0
 lrwxrwxrwx 1 rmn rmn   22 мар  9 19:25 libboost_log.so -> libboost_log.so.1.69.0
 
-</dertails>
+</details>
 
 11. ***Найдите топ10 самых "тяжёлых".***
 ```bash 
